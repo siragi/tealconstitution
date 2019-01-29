@@ -7,4 +7,4 @@ Workshop Teal Constitution
 - https://github.com/ParticipatoryOrgs
 
 ##Outcome:
-./'Teal Constitution2.pdf'
+- ./'Teal Constitution2.pdf'
